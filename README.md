@@ -6,8 +6,8 @@
 </div>
 
 <div>
-__영상__<br>
-https://youtu.be/0S_tsmlS7Bc
+[![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc/0.jpg)](https://youtu.be/0S_tsmlS7Bc)
+트레일러 영상
 </div>
 
 ## 개요
