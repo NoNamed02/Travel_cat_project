@@ -7,6 +7,7 @@
 
 
 [![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc/0.jpg)](https://youtu.be/0S_tsmlS7Bc)
+<br>
 트레일러 영상
 
 ## 개요
