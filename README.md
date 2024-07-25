@@ -7,7 +7,7 @@
 
 <div>
 __영상__<br>
-[![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc/0.jpg)](https://youtu.be/0S_tsmlS7Bc)
+[[![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc/0.jpg)](https://youtu.be/0S_tsmlS7Bc)](https://youtu.be/0S_tsmlS7Bc)
 </div>
 
 ## 개요
