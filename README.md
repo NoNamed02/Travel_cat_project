@@ -5,6 +5,11 @@
 그런 분들을 위한 귀여운 반려 고양이와 함께하는 국내 일주 방치형 여행 게임! 여행가냥~
 </div>
 
+<div>
+__영상__<br>
+[![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc/0.jpg)](https://youtu.be/0S_tsmlS7Bc)
+</div>
+
 ## 개요
   프로젝트 이름: 여행가냥<br>
   프로젝트 지속기간: 2024 06 26 ~ 2024 07 03<br>
