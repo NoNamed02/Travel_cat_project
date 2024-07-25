@@ -6,7 +6,7 @@
 </div>
 
 <div>
-[![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc/0.jpg)](https://youtu.be/0S_tsmlS7Bc)
+[![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc&ab/0.jpg)](https://youtu.be/0S_tsmlS7Bc&ab)
 트레일러 영상
 </div>
 
