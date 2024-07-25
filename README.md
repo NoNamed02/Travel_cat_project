@@ -5,10 +5,9 @@
 그런 분들을 위한 귀여운 반려 고양이와 함께하는 국내 일주 방치형 여행 게임! 여행가냥~
 </div>
 
-<div>
+
 [![Video Label](http://img.youtube.com/vi/0S_tsmlS7Bc&ab/0.jpg)](https://youtu.be/0S_tsmlS7Bc&ab)
 트레일러 영상
-</div>
 
 ## 개요
   프로젝트 이름: 여행가냥<br>
