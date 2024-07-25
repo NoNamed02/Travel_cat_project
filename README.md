@@ -1,5 +1,5 @@
 <div align="center">
-![git_readme_image_001](https://github.com/user-attachments/assets/48834c5f-aa40-487e-bfab-812cb1b1c1e6.jpg)
+![image001](https://github.com/user-attachments/assets/25dec6b8-6271-4544-8812-5cf3852f3fda)
   <br>
 현대의 수많은 직장인들, 대학생들은 언제나 자유로운 여행을 원합니다. 그런 분들을 위한 귀여운 반려 고양이와 함께하는 국내 일주 여행을 떠나보세요!
 </div>
